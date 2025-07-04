@@ -1,0 +1,5 @@
+{
+  raptor_matriarch_acid = {
+		airsightdistance = 255
+	}
+}
